@@ -1,0 +1,10 @@
+{
+    "image": "gcr.io/kaggle-images/python",
+    "extensions": [
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter"
+    ],
+    "containerEnv": {
+        "LOCAL": "True"
+    },
+}
